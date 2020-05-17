@@ -1,2 +1,2 @@
 # Udacity-Deep-Reinforcement-Learning
-Code notebooks from that have been completed as part of the Deep Reinforcement Learning course
+Projects and theory complete via the Deep Reinforcement Learning course
